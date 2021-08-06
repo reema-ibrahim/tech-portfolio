@@ -4,10 +4,11 @@ title: About
 ---
 hi! i'm reema.
 
-## Current Role
+## Organizations
 
-Grace Hopper Celebration Attendee
+- FRC First Robotics
+- Technovation [MN]
 
-## Recognition
+//## Recognition
 
-- 2020 Awesome Woman in Technology Award
+
