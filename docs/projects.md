@@ -2,13 +2,11 @@
 id: projects
 title: Projects
 ---
+Here are some cool things I have been working on!
 
-Embed any notable projects in this page.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+Click here [links](https://x.thunkable.com/copy/d50a2a91a1b180178596ef3554add147)
+to check out my Technovation[MN] project!
 
 ![Add alternate text for image](./assets/rosemary.png)
