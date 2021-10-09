@@ -2,7 +2,7 @@
 id: about
 title: About
 ---
-This is organizations I am participating/have participated in:
+This are organizations I am participating/have participated in:
 
 ## Technology Related
 
