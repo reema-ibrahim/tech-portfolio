@@ -2,13 +2,24 @@
 id: about
 title: About
 ---
-hi! i'm reema.
+This is organizations I am participating/have participated in:
 
-## Organizations
+## Technology Related
 
+- Totino Grace's Engineering Institute
 - FRC First Robotics
 - Technovation [MN]
+- University of Michigan's Joy of Coding
+- Inspirit AI with Stanford and MIT
 
-//## Recognition
+## Other
+
+- Teacher at the Kumon Institute of Education
+- MN Math League
+- LINK Crew
+- Karate
+- National Honors Society
+- Kathleen Murphy Scholars
+- Professional Karate Studios
 
 
